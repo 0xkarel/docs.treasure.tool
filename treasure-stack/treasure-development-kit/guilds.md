@@ -25,7 +25,7 @@ Guilds function under the wider organization, enabling substantial customization
 
 1. **Create an organization  -** Begin by setting up an Organization for your project. Refer to  [Getting Started](./#getting-started) for guidance on this process.
 2. **Copy the Interface/ABI -** Check out [IGuildManager.sol](https://github.com/TreasureProject/spellcaster-facets/blob/develop/src/interfaces/IGuildManager.sol). If you're planning to call methods from another contract, import the interface file into your solidity project. If the intention is to call methods directly from the front end, copy the ABI.
-3. **Call initializeForOrganization  -** Refer toe [IGuildManager.sol](https://github.com/TreasureProject/spellcaster-facets/blob/develop/src/interfaces/IGuildManager.sol) for information on the different parameters. his step is only necessary once.
+3. **Call initializeForOrganization  -** Refer to [IGuildManager.sol](https://github.com/TreasureProject/spellcaster-facets/blob/develop/src/interfaces/IGuildManager.sol) for information on the different parameters. This step is only necessary once.
 
 ```solidity
 function initializeForOrganization(
