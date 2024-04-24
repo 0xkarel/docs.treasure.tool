@@ -6,16 +6,17 @@ coverY: 0
 
 **Prerequirements**
 
-* You must have enough sepoliaETH in your wallet to cover the cost of gas and minting (at least 0.0005 SepoliaETH).
+* Ensure you have Sepolia Testnet (L1) added to your favorite wallet.
+* You must have enough sepoliaETH in your wallet to cover the cost of gas and minting (at least 0.0005 SepoliaETH on Sepolia Testnet (L1)).
 * The user must have a wallet that works with Ethereum that's connected to their browser.
 
 **Step by Step Guide**
 
 * Click [this](https://sepolia.etherscan.io/address/0x013cb2854daad8203c6686682f5d876e5d3de4a2#writeProxyContract) to find our native token on Sepolia Testnet
-* Click the contract section
-* Click on the write as proxy section
+* Click the `Contract` section
+* Click on the `Write as Proxy` section
 * Connect your wallet by clicking on connect to Web3 button
-* Click the mintDailyAllocation section #10 in the list
+* Click the `mintDailyAllocation` (section #10) in the list
 * Click the write button
   * Make sure you have enough currency to cover the gas
 * Approve transfer in the wallet and pay any gas fees

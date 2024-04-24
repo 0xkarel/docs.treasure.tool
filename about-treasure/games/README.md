@@ -10,4 +10,4 @@ Partnered games include: [The Beacon](https://thebeacon.gg/), [Zeeverse](https:/
 For the full (and growing!) list of games building within the Treasure ecosystem, visit: [https://app.treasure.lol/games](https://app.treasure.lol/games)
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>

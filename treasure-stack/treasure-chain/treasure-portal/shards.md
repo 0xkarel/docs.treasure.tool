@@ -23,7 +23,7 @@ Shards are rewarded upon the completion of [quests](https://portal.treasure.lol)
 
 <details>
 
-<summary>How are Shards different from Gems?</summary>
+<summary><strong>How are Shards different from Gems?</strong></summary>
 
 Shards symbolize your contribution and activity within the Treasure testnet. They will play a pivotal role in shaping the incentives and rewards for early adopters.
 
@@ -33,7 +33,7 @@ Unlike Gems, Shards will not be able to be spent or used to redeem for Treasure 
 
 <details>
 
-<summary>Can I redeem Shards for anything?</summary>
+<summary><strong>Can I redeem Shards for anything?</strong></summary>
 
 No, Shards will not be able to be redeemed. They will be used to inform future incentives and rewards. More details to come!
 
@@ -41,7 +41,7 @@ No, Shards will not be able to be redeemed. They will be used to inform future i
 
 <details>
 
-<summary>How long will Shards be around for?</summary>
+<summary><strong>How long will Shards be around for?</strong></summary>
 
 Shards will persist throughout the Treasure testnet on the road to launching the Treasure Chain mainnet. They will not be able to be earned shortly around the time of the Treasure mainnet launch.
 
