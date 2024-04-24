@@ -24,30 +24,38 @@
 
 ## 💻 Treasure Stack
 
-* [Treasure Chain](treasure-stack/treasure-chain.md)
-* [Treasure Platform](treasure-stack/treasure-platform.md)
-* [Treasure Identity](treasure-stack/treasure-identity/README.md)
+* [🔗 Treasure Chain](treasure-stack/treasure-chain/README.md)
+  * [🔮 Treasure Portal](treasure-stack/treasure-chain/treasure-portal/README.md)
+    * [📜 Testnet Details & Links](treasure-stack/treasure-chain/treasure-portal/testnet-details-and-links.md)
+    * [🏅 Portal Quests](treasure-stack/treasure-chain/treasure-portal/portal-quests/README.md)
+      * [🖼️ Commemorative NFT](treasure-stack/treasure-chain/treasure-portal/portal-quests/commemorative-nft.md)
+      * [✨ MAGIC on Sepolia Testnet](treasure-stack/treasure-chain/treasure-portal/portal-quests/magic-on-sepolia-testnet.md)
+    * [🚰 Portal Faucet](treasure-stack/treasure-chain/treasure-portal/portal-faucet.md)
+    * [🌁 Portal Bridge](treasure-stack/treasure-chain/treasure-portal/portal-bridge.md)
+    * [🟪 Shards](treasure-stack/treasure-chain/treasure-portal/shards.md)
+* [💻 Treasure App](treasure-stack/treasure-app.md)
+* [🪪 Treasure Identity](treasure-stack/treasure-identity/README.md)
   * [TreasureTags](treasure-stack/treasure-identity/treasuretags.md)
   * [Badges & Achievements](treasure-stack/treasure-identity/badges-and-achievements.md)
-* [Treasure Development Kit](treasure-stack/treasure-development-kit/README.md)
-  * [Guilds](treasure-stack/treasure-development-kit/guilds.md)
+* [👩‍💻 Treasure Development Kit](treasure-stack/treasure-development-kit/README.md)
   * [Payments](treasure-stack/treasure-development-kit/payments.md)
+  * [Guilds](treasure-stack/treasure-development-kit/guilds.md)
   * [Emissions](treasure-stack/treasure-development-kit/emissions.md)
-* [AMM (Magicswap)](https://magicswap.lol/)
+* [🔁 AMM (Magicswap)](https://magicswap.lol/)
 
-## ⚒️ For Game Developers
+## ⚒️ For Builders
 
-* [Game Builders Program](for-game-developers/game-builders-program/README.md)
-  * [Application Process & Requirements](for-game-developers/game-builders-program/application-process-and-requirements.md)
-* [Marketplace](for-game-developers/marketplace/README.md)
-  * [Marketplace Listing](for-game-developers/marketplace/marketplace-listing.md)
-  * [Metadata Support](for-game-developers/marketplace/metadata-support.md)
-  * [Setting Collection Royalties](for-game-developers/marketplace/setting-collection-royalties.md)
-  * [Delisting Framework](for-game-developers/marketplace/delisting-framework.md)
-  * [FAQ](for-game-developers/marketplace/faq.md)
-* [API](for-game-developers/api.md)
-* [Badges Implementation](for-game-developers/badges-implementation.md)
-* [Quests Implementation](for-game-developers/quests-implementation.md)
+* [Game Builders Program](for-builders/game-builders-program/README.md)
+  * [Application Process & Requirements](for-builders/game-builders-program/application-process-and-requirements.md)
+* [Marketplace](for-builders/marketplace/README.md)
+  * [Marketplace Listing](for-builders/marketplace/marketplace-listing.md)
+  * [Metadata Support](for-builders/marketplace/metadata-support.md)
+  * [Setting Collection Royalties](for-builders/marketplace/setting-collection-royalties.md)
+  * [Delisting Framework](for-builders/marketplace/delisting-framework.md)
+  * [FAQ](for-builders/marketplace/faq.md)
+* [API](for-builders/api.md)
+* [Badges Implementation](for-builders/badges-implementation.md)
+* [Quests Implementation](for-builders/quests-implementation.md)
 
 ## 📣 For Creators
 
@@ -69,7 +77,7 @@
 ## 🤝 Get Involved
 
 * [Getting Involved](get-involved/involvement.md)
-* [Community Grants Program](get-involved/community-grants-program.md)
+* [Apply for Community Grants](get-involved/community-grants-program.md)
 * [Become a Treasure Ambassador](get-involved/become-a-treasure-ambassador.md)
 * [Contributing to Treasure Docs](get-involved/contributors.md)
 * [Careers at Treasure](https://jobs.treasure.lol)

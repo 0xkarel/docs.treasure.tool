@@ -4,7 +4,7 @@ description: >-
   Treasure platform.
 ---
 
-# Treasure Platform
+# 💻 Treasure App
 
 The Treasure platform is your destination for gaming on Treasure. As an asset marketplace, a hub for game discovery and distribution, center for tournaments and events, and much more, Treasure brings together everything that players and game developers could possibly want under a single roof.
 
