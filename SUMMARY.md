@@ -41,6 +41,7 @@
   * [Payments](treasure-stack/treasure-development-kit/payments.md)
   * [Guilds](treasure-stack/treasure-development-kit/guilds.md)
   * [Emissions](treasure-stack/treasure-development-kit/emissions.md)
+* [Treasure Connect](treasure-stack/treasure-connect.md)
 * [🔁 AMM (Magicswap)](https://magicswap.lol/)
 
 ## ⚒️ For Builders
