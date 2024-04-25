@@ -1,4 +1,4 @@
-# Treasure Connect
+# 🥨 Treasure Connect
 
 ## What is Treasure Connect?
 
