@@ -32,7 +32,7 @@ Ensure your wallet has sufficient sepoliaETH to cover gas fees and minting costs
 2. **Interact with Contract:**
    * Navigate to the 'Contract' section on the page.
 
-<figure><img src="../../../../.gitbook/assets/2024-04-19 11.05.59 (3).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/2024-04-19 11.05.59 (3).gif" alt=""><figcaption></figcaption></figure>
 
 3. **Prepare to Write:**
 
@@ -50,7 +50,7 @@ Ensure your wallet has sufficient sepoliaETH to cover gas fees and minting costs
 
 * Press the 'Write' button to start the minting process.
 
-<figure><img src="../../../../.gitbook/assets/2024-04-19 11.14.20.gif" alt=""><figcaption><p>Minting Token</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/2024-04-19 11.14.20.gif" alt=""><figcaption><p>Minting Token</p></figcaption></figure>
 
 7. **Cover Gas Fees:**
 

@@ -9,7 +9,7 @@ coverY: 0
 
 ### Pre-Requirements:
 
-Before minting an NFT, ensure you have enough MAGIC in your wallet to cover gas fees. If not, collect more from the [Faucet](../portal-faucet.md).&#x20;
+Before minting an NFT, ensure you have enough MAGIC in your wallet to cover gas fees. If not, collect more from the [Faucet](../../portal-faucet.md).&#x20;
 
 ### Step-by-Step Minting Process:
 
@@ -20,7 +20,7 @@ Before minting an NFT, ensure you have enough MAGIC in your wallet to cover gas 
    * Choose your wallet from the compatible options and log in.
 3.
 
-    <figure><img src="../../../../.gitbook/assets/2024-04-19 10.37.01.gif" alt=""><figcaption><p>Connect Wallet</p></figcaption></figure>
+    <figure><img src="../../../../../.gitbook/assets/2024-04-19 10.37.01.gif" alt=""><figcaption><p>Connect Wallet</p></figcaption></figure>
 4. **Mint Your NFT:**
    * Scroll to the section labeled "mint."
    * Click to expand the menu and select the 'Write' button to initiate the minting process.
@@ -30,13 +30,13 @@ Before minting an NFT, ensure you have enough MAGIC in your wallet to cover gas 
    * Confirm and approve all contract interactions and payment requirements that pop up in your wallet to mint the NFT.
 7.
 
-    <figure><img src="../../../../.gitbook/assets/2024-04-19 10.40.15.gif" alt=""><figcaption><p>Writing and Accepting Contract</p></figcaption></figure>
+    <figure><img src="../../../../../.gitbook/assets/2024-04-19 10.40.15.gif" alt=""><figcaption><p>Writing and Accepting Contract</p></figcaption></figure>
 8. **Verify Your NFT:**
    * Once the minting process is complete, return to Treasure's main site.
    * Check the 'Account' page to see your new NFT.
    * Alternatively, you can view your recent transactions and NFT acquisition in the block explorer by clicking 'Transactions' in the navigation menu.
 
-<figure><img src="../../../../.gitbook/assets/2024-04-19 10.45.17.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/2024-04-19 10.45.17.gif" alt=""><figcaption></figcaption></figure>
 
 Congratulations! You have now minted an NFT on Treasure's platform. Enjoy your new digital asset and explore more of what the ecosystem has to offer!
 

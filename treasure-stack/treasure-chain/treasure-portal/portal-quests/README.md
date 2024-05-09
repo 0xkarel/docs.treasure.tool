@@ -15,7 +15,7 @@ Dive into the Treasure Portal's quests to experience the testnet's features whil
 
 ## Quests
 
-Discover the Treasure testnet through a series of quests, beginning with some of the basics to [collect testnet MAGIC using the faucet](../portal-faucet.md), [minting a commemorative NFT](commemorative-nft.md), and [bridging into the Treasure testnet from Sepolia](magic-on-sepolia-testnet.md).
+Discover the Treasure testnet through a series of quests, beginning with some of the basics to [collect testnet MAGIC using the faucet](../portal-faucet.md), [minting a commemorative NFT](commemorative-nft/), and [bridging into the Treasure testnet from Sepolia](magic-on-sepolia-testnet/).
 
 \-> [See all available portal quests](https://portal.treasure.lol)
 
